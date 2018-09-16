@@ -19,7 +19,6 @@ export default {
   name: 'Get',
   data () {
     return{
-      companies:["MS-1","Apple-2","Ali-3","Baidu-4","Tencent-5"]
     }
   },
   computed: {
