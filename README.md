@@ -9,7 +9,7 @@ an image slider component with Vue
 
 第三层是图片组，**这里需要复制一份完全相同的轮播图片组**。
 
-![slider](C:\Users\11314\Desktop\slider.png)
+![slider](https://github.com/WangXBruc/vue-slider-component/blob/master/slider.png)
 
 图片逐步向左移动，当demo中的四张图片全部移出到页面左侧时，**立刻把图片恢复到初始化的位置，循环往复**。
 
